@@ -60,7 +60,7 @@ int main() {
     denspopu2 = (float) populacao2 / area2;
     PIBpc2 = PIB2 / (float) populacao2;
 
-    // Escolha do atributo para comparação
+    // Escolhi o atributo população para comparação
     char atributo[] = "População";
     unsigned long int valor1 = populacao1;
     unsigned long int valor2 = populacao2;
