@@ -80,7 +80,7 @@ int main() {
     printf("Digite a opção: ");
     scanf("%d", &opcao2);
 
-    // Função para comparar atributos
+    // Comparar atributos
     void comparar(int opcao) {
         switch (opcao) {
             case 1:
